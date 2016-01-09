@@ -1,0 +1,13 @@
+[main]
+
+problem = vrp
+
+
+files =
+    vrp_v4.py
+    REPORT5.txt
+
+build =
+
+run =
+    python vrp_v4.py %%f

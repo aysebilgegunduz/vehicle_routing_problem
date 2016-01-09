@@ -1,0 +1,31 @@
+Student name: Ayşe Bilge İnce
+Student no: 504121509
+
+Instance no: 2
+
+Programming environment (operating system, programming languagae, IDE, ...):
+I wrote with python 3 language with Pycharm IDE on MacOSX operating system. Also i used numpy library for arithmetic information.
+
+
+
+Description of approach used (max 200 words):
+I used greedy method. I sorted capacities in descending order. After that for each vehicle 
+,I add an item which has largest capacity value in sorted list. I stop to add item if vehicle’s capacity is full.
+
+
+
+
+All relevant parameters and their settings:
+To run my code, python 3.4.0 should’ve been installed also i used numpy library for arithmetic operations.
+To install numpy write below code to terminal:
+	pip install numpy
+
+
+Extra Notes (max 100 words):
+
+
+
+
+
+References:
+[1] …
